@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tyler Pham Junior at Calpoly SLO
-- 👀 I’m interested in Cybersecurity, AI, and the Cloud 
-- 🌱 I’m currently learning C and Python 
+- 👀 I’m interested in data infrastructure, system programming, and Cloud development
+- 🌱 I’m currently learning C, Python, and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contactable Through tyler.n.pham2022@gmail.com
