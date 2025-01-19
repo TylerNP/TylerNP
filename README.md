@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tyler Pham Junior at Calpoly SLO
 - 👀 I’m interested in data infrastructure, system programming, and Cloud development
-- 🌱 I’m currently learning C, Python, and SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning distributed computing, full stack development, and system programming
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 Contactable Through tyler.n.pham2022@gmail.com
