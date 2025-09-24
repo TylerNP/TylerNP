@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Tyler Pham Junior at Calpoly SLO
+- 👋 Hi, I’m Tyler Pham Senior at Calpoly SLO
 - 👀 I’m interested in data infrastructure, system programming, and Cloud development
 - 🌱 I’m currently learning distributed computing, full stack development, and system programming
 - 💞️ I’m looking to learn more 
 - 📫 Contactable Through tyler.n.pham2022@gmail.com
+
